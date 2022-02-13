@@ -2,7 +2,7 @@
 - 👀 I’m interested in Start programming and developing a network. 
 - 🌱 I'm currently a data science student at the Anhaguera-Taboão da Serra university.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Send me an email: micael mor43s@icloud.com
+- 📫 How to reach me: Send me an email: micaelmor43s@icloud.com
 
 <!---
 morsleslofi/morsleslofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
